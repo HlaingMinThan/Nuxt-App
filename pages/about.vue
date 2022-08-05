@@ -1,6 +1,7 @@
 <template>
     <Title>About</Title>
     <h1>about</h1>
+    <LazyCard/>
 </template>
 <script setup>
 definePageMeta({
